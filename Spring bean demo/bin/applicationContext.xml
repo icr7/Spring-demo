@@ -11,7 +11,7 @@
     <bean id="branchinfo"
          class="com.icr7.springdemo.Mechanical">
     </bean>
-    
+    <!-- new bean -->
     <bean id="myStudent"
           class="com.icr7.springdemo.Gbpiet">
        
